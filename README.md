@@ -48,8 +48,8 @@ I'm open to **full-time roles** and **freelance projects**.
 
 | Project | Description | Tech |
 |---|---|---|
-| [**OnlineHelpDesk-CampusSystem**](https://github.com/tahirkhan8709/OnlineHelpDesk-CampusSystem) | Online help desk system for campus issues and support requests | ASP.NET Core |
-| [**EcommerceAdmin**](https://github.com/tahirkhan8709/EcommerceAdmin) | Admin panel for managing an e-commerce store | ASP.NET Core  |
+| [**OnlineHelpDesk-CampusSystem**](https://github.com/tahirkhan8709/OnlineHelpDesk-CampusSystem) | Online help desk system for campus issues and support requests | ASP.NET Core, SQL Server |
+| [**EcommerceAdmin**](https://github.com/tahirkhan8709/EcommerceAdmin) | Admin panel for managing an e-commerce store | ASP.NET Core, SQL Server  |
 | [**vaccination-system-**](https://github.com/tahirkhan8709/vaccination-system-) | Web system to manage vaccination records and appointments | PHP, MySQL |
 | **WatchHub** | Watch store mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Dart, Flutter, Firebase |
 | **HarvestHub** | Fresh produce mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Dart, Flutter, Firebase |
