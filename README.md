@@ -47,8 +47,8 @@ I'm open to **full-time roles** and **freelance projects**.
 | [**vaccination-system-**](https://github.com/tahirkhan8709/vaccination-system-) | Web system to manage vaccination records and appointments | PHP, MySQL |
 | **WatchHub** | Watch store mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Flutter |
 | **HarvestHub** | Fresh produce mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Flutter |
-| [**richfield-chairs-**](https://github.com/tahirkhan8709/richfield-chairs-) | Furniture business website with a clean, responsive layout | HTML, CSS |
-| [**tahir-khan-portfolio**](https://github.com/tahirkhan8709/tahir-khan-portfolio) | My personal portfolio website | Web |
+| [**richfield-chairs-**](https://github.com/tahirkhan8709/richfield-chairs-) | Furniture business website with a clean, responsive layout | HTML, CSS, JavaScript |
+| [**tahir-khan-portfolio**](https://github.com/tahirkhan8709/tahir-khan-portfolio) | My personal portfolio website | React  |
 
 ---
 
