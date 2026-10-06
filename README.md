@@ -18,6 +18,7 @@ I'm open to **full-time roles** and **freelance projects**.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Frontend**
 
@@ -30,6 +31,7 @@ I'm open to **full-time roles** and **freelance projects**.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Tools**
 
@@ -45,8 +47,8 @@ I'm open to **full-time roles** and **freelance projects**.
 | [**OnlineHelpDesk-CampusSystem**](https://github.com/tahirkhan8709/OnlineHelpDesk-CampusSystem) | Online help desk system for campus issues and support requests | ASP.NET Core |
 | [**EcommerceAdmin**](https://github.com/tahirkhan8709/EcommerceAdmin) | Admin panel for managing an e-commerce store | ASP.NET Core  |
 | [**vaccination-system-**](https://github.com/tahirkhan8709/vaccination-system-) | Web system to manage vaccination records and appointments | PHP, MySQL |
-| **WatchHub** | Watch store mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Flutter |
-| **HarvestHub** | Fresh produce mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Flutter |
+| **WatchHub** | Watch store mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Dart, Flutter, Firebase |
+| **HarvestHub** | Fresh produce mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Dart, Flutter, Firebase |
 | [**richfield-chairs-**](https://github.com/tahirkhan8709/richfield-chairs-) | Furniture business website with a clean, responsive layout | HTML, CSS, JavaScript |
 | [**tahir-khan-portfolio**](https://github.com/tahirkhan8709/tahir-khan-portfolio) | My personal portfolio website | React  |
 
