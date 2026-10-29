@@ -1,4 +1,4 @@
-# Hi, I'm Tahir Khan 👋
+# Hi, I'm Tahir Khan 
 
 ### Full-Stack Web & Mobile Developer
 
