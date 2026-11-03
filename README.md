@@ -5,7 +5,6 @@
 I build web and mobile applications with **PHP, Laravel, React, ASP.NET Core and Flutter**.
 I'm open to **full-time roles** and **freelance projects**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tahirkhan-steel.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahir-khan-532419353/)
 
 ---
