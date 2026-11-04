@@ -37,6 +37,34 @@ I'm open to **Flutter roles, internships** and **freelance projects**.
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 📱 Flutter in Detail
+
+I build cross-platform apps for **Android and iOS** from a single Dart codebase, focusing on smooth UI, clean structure and real-world features.
+
+| Area | What I Use |
+|---|---|
+| **Framework & Language** | Flutter, Dart (null safety, async/await, streams) |
+| **State Management** | Riverpod, GetX, Provider |
+| **Backend & Cloud** | Firebase Authentication, Cloud Firestore, Google Sign-In |
+| **Media** | Cloudinary for image upload and delivery |
+| **Maps & Location** | Map integration for delivery location |
+| **Payments** | Payment method integration at checkout |
+| **Networking** | REST API integration |
+| **Architecture** | Clean architecture, reusable widgets, feature-based folder structure |
+| **UI & UX** | Responsive layouts, custom themes (dark, black and gold), smooth navigation |
+| **Dev Tools** | Android Studio, VS Code, Git and GitHub |
+
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0175C2?style=flat-square&logo=flutter&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Tools**
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
