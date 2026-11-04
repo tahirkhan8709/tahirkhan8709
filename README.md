@@ -1,11 +1,12 @@
-# Hi, I'm Tahir Khan 
+# Hi, I'm Tahir Khan 👋
 
-### Full-Stack Web & Mobile Developer
+### Flutter Developer | Cross-Platform Mobile Apps
 
-I build web and mobile applications with **PHP, Laravel, React, ASP.NET Core and Flutter**.
-I'm open to **full-time roles** and **freelance projects**.
+I build fast, polished **Flutter** apps for Android and iOS from a single Dart codebase, using **Firebase**, clean architecture and state management (**Riverpod**, **GetX**).
+I'm open to **Flutter roles, internships** and **freelance projects**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahir-khan-532419353/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://tahir-flutter-portfolio-smoky.vercel.app/)
 
 ---
 
@@ -43,27 +44,37 @@ I'm open to **full-time roles** and **freelance projects**.
 
 ---
 
-## 🚀 Featured Projects
+## 📱 Featured Flutter Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [**OnlineHelpDesk-CampusSystem**](https://github.com/tahirkhan8709/OnlineHelpDesk-CampusSystem) | Online help desk system for campus issues and support requests | ASP.NET Core, SQL Server |
-| [**EcommerceAdmin**](https://github.com/tahirkhan8709/EcommerceAdmin) | Admin panel for managing an e-commerce store | ASP.NET Core, SQL Server  |
-| [**vaccination-system-**](https://github.com/tahirkhan8709/vaccination-system-) | Web system to manage vaccination records and appointments | PHP, MySQL |
-| **WatchHub** | Watch store mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Dart, Flutter, Firebase |
-| **HarvestHub** | Fresh produce mobile app (screenshots and details in my [portfolio](YOUR_PORTFOLIO_URL)) | Dart, Flutter, Firebase |
-| [**richfield-chairs-**](https://github.com/tahirkhan8709/richfield-chairs-) | Furniture business website with a clean, responsive layout | HTML, CSS, JavaScript |
-| [**tahir-khan-portfolio**](https://github.com/tahirkhan8709/tahir-khan-portfolio) | My personal portfolio website | React  |
+| [**WatchHub**](https://github.com/tahirkhan8709/watchhub-showcase) | Premium e-commerce app for luxury watches with search, brand filters, wishlist, cart, map integration and payment methods | Flutter, Dart, Firebase, Riverpod |
+| [**Mentalmente Fit**](https://github.com/tahirkhan8709/mentalment-fit-showcase) | Fitness and wellness app with daily calories and macros tracking, habit checklist, AI coach and mentor booking | Flutter, Dart, Firebase |
+| [**HarvestHub**](https://github.com/tahirkhan8709/harvesthub-showcase) | Farming marketplace app connecting farmers and buyers, with product listings, cart, checkout and order tracking | Flutter, Dart, Firebase, GetX |
+
+> Screenshots and full details of these apps are on my [portfolio](https://tahir-flutter-portfolio-smoky.vercel.app/).
 
 ---
 
 ## 💼 What I Can Help You With
 
-- 🌐 Business websites and landing pages
-- 🛒 E-commerce and custom web applications (Laravel / PHP / ASP.NET Core)
-- ⚛️ Modern frontends with React
-- 📱 Cross-platform mobile apps with Flutter
-- 🔌 REST APIs and database design
+- 📱 Cross-platform mobile apps for Android and iOS with Flutter
+- 🛒 E-commerce apps with cart, checkout, payments and order management
+- 🔐 Authentication, cloud database and real-time data with Firebase
+- 🧱 Clean, maintainable architecture with Riverpod and GetX
+- 🎨 Smooth, responsive and pixel-perfect UI
+- 🔌 REST API integration
+
+---
+
+## 🧩 More Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**OnlineHelpDesk-CampusSystem**](https://github.com/tahirkhan8709/OnlineHelpDesk-CampusSystem) | Online help desk system for campus issues and support requests | ASP.NET Core, SQL Server |
+| [**EcommerceAdmin**](https://github.com/tahirkhan8709/EcommerceAdmin) | Admin panel for managing an e-commerce store | ASP.NET Core, SQL Server |
+| [**vaccination-system-**](https://github.com/tahirkhan8709/vaccination-system-) | Web system to manage vaccination records and appointments | PHP, MySQL |
+| [**tahir-khan-portfolio**](https://github.com/tahirkhan8709/tahir-khan-portfolio) | My personal portfolio website | React, TypeScript |
 
 ---
 
@@ -76,12 +87,12 @@ I'm open to **full-time roles** and **freelance projects**.
 
 ## 🎯 Currently
 
-- 🔨 Building more full-stack projects with Laravel, React and ASP.NET Core
-- 📱 Working on Flutter mobile apps
-- 📚 Improving clean code, APIs and database design
+- 📱 Building more Flutter apps with clean architecture
+- 📚 Improving state management, Firebase and API integration skills
+- 🚀 Looking for a Flutter role or internship to grow with a team
 
 ---
 
 ## 📫 Let's Connect
 
-Looking for a developer for your team or project? Reach out through my [portfolio](YOUR_PORTFOLIO_URL) or [LinkedIn](YOUR_LINKEDIN_URL).
+Looking for a Flutter developer for your team or project? Reach out through my [portfolio](YOUR_PORTFOLIO_URL) or [LinkedIn](https://www.linkedin.com/in/tahir-khan-532419353/).
