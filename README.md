@@ -110,7 +110,9 @@ I build cross-platform apps for **Android and iOS** from a single Dart codebase,
 ## 📊 GitHub Stats
 
 ![Tahir's GitHub stats](https://streak-stats.demolab.com/?user=tahirkhan8709&theme=tokyonight&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahirkhan8709&theme=tokyo-night&hide_border=true)
+## 📊 GitHub Stats
+
+![Tahir's GitHub stats](https://streak-stats.demolab.com/?user=tahirkhan8709&theme=tokyonight&hide_border=true)
 
 ---
 
